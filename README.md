@@ -1,6 +1,6 @@
 # The Matrix: "Wake up, Neo" Scene Recreation
 
-![Matrix Cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
+![Matrix Cat](./assets/cat.gif)
 
 This script recreates the iconic "Wake up, Neo" scene from *The Matrix* in your terminal. It displays text sequences with a similar effect to the movie, followed by a matrix-style animation using `cmatrix`.
 
